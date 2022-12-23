@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/namhong2001/binary-search/issues"
   },
-  "homepage": "https://github.com/namhong2001/binary-search"
+  "homepage": "https://github.com/namhong2001/binary-search",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
