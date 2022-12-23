@@ -1,6 +1,6 @@
 {
   "name": "@namhong2001/binary-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "very simple number based binary search",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
